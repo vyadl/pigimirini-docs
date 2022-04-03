@@ -1,0 +1,5 @@
+# Creds
+
+![[cPanel]]
+![[FTP]]
+![[SSH]]

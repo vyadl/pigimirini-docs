@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "21f2cf47fc927521",
+    "type": "split",
+    "children": [
+      {
+        "id": "8722b7b6f09f2b21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "creds and accesses.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7196a7339adb5959",
+    "type": "split",
+    "children": [
+      {
+        "id": "6585a1b746689c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381f086978524278",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e29a4bf90abce550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afa65ee4c38e4bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c22c5b50e6f7d3b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00133a99d2e7cb8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "creds and accesses.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8722b7b6f09f2b21",
+  "lastOpenFiles": [
+    "creds and accesses.md",
+    "credentials and accesses/FTP.md",
+    "credentials and accesses/SSH.md",
+    "credentials and accesses/cPanel.md",
+    "media/example of 'ls' for server.png",
+    "SSH/SSH instructions for windows.md",
+    "Untitled.md"
+  ]
+}
